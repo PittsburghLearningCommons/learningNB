@@ -1,0 +1,27 @@
+functions
+- naming
+- args
+- return statement
+- required vs. keyword args
+- variable scope
+
+variables
+- names
+- basic types
+- operations
+
+advanced variables
+- lists
+- dicts
+- tuples
+
+program logic
+- Truth/false
+- boolean operators
+- if statements
+- elif
+- try
+
+loops
+- for
+- iteration over list
